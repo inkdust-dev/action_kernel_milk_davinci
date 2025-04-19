@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="vantom-14"
+KERNEL_GIT="https://github.com/vantoman/kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="eleven"
 KERNEL_TYPE="vantom"
 
 # KernelSU
